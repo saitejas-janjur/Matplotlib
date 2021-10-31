@@ -9,7 +9,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/saitejas-janjur/Alien_Invasion_Game/blob/main/images/Game_demo.PNG)
+![Line Graph](https://github.com/saitejas-janjur/Matplotlib/blob/main/images/line_graph.PNG)
+![Scatter plot](https://github.com/saitejas-janjur/Matplotlib/blob/main/images/scatter_plot.PNG)
 
 This is a simple python program that explains how to show line graph and scatter plot using `matplotlib`.  
 <!-- GETTING STARTED -->
