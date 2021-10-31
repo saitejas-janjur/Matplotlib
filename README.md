@@ -28,7 +28,7 @@ Happy learning !!!
 
 ### Built With
 * [Python](https://www.python.org/)
-* [Pygame](https://matplotlib.org/)
+* [matplotlib](https://matplotlib.org/)
 
 
 
